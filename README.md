@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Shahidul 👋
 
-<!--
-**ShahidulMamun/ShahidulMamun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### PHP & Laravel Developer
 
-Here are some ideas to get you started:
+I build scalable web applications, SaaS platforms,
+eCommerce systems and business automation software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+Backend
+- PHP
+- Laravel
+- MySQL
+- REST APIs
+
+Frontend
+- JavaScript
+- React
+- Blade
+- Bootstrap
+
+DevOps
+- Git
+- GitHub Actions
+- Linux
+- Docker
+- CI/CD
+
+### 🚀 Featured Projects
+
+- Job Portal
+- Micro Job Marketplace
+- E-commerce Platform
+- Admin Management System
+
+### 📫 Connect With Me
+
+LinkedIn | Website | GitHub
