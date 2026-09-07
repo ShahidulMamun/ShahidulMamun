@@ -31,6 +31,7 @@ DevOps
 - Job Portal
 - Micro Job Marketplace
 - E-commerce Platform
+- News Portal
 - Admin Management System
 
 ### 📫 Connect With Me
