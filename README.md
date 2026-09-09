@@ -30,7 +30,9 @@ I enjoy turning ideas into real-world products, developing APIs, building SaaS p
 
 Backend
 - PHP
+- Java
 - Laravel
+- Spring Boot
 - MySQL
 - REST APIs
 
