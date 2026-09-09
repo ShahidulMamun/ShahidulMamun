@@ -6,6 +6,7 @@ I’m a passionate Full Stack Developer focused on building maintainable, scalab
 I enjoy turning ideas into real-world products, developing APIs, building SaaS platforms, and continuously learning modern software engineering practices.
 
 🚀 About Me
+
 💻 Full Stack Developer with strong experience in PHP & Laravel 
 
 🔥 Experienced in building Web Applications, REST APIs & SaaS Platforms 
