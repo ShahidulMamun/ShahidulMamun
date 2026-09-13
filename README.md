@@ -1,63 +1,66 @@
-👋 Hi, I'm Shahidul Mamun
-💻 Full Stack Developer | Laravel | PHP | React | Java | Spring Boot
+# 👋 Hi, I'm Shahidul Mamun
 
-I’m a passionate Full Stack Developer focused on building maintainable, scalable, secure, and reliable web applications.
+### 💻 Full Stack Developer | PHP | Laravel | React | Java | Spring Boot
 
-I enjoy turning ideas into real-world products, developing APIs, building SaaS platforms, and continuously learning modern software engineering practices.
+I'm a Full Stack Developer with 5+ years of experience building web applications and backend systems. Most of my work has been with PHP and Laravel, along with JavaScript, React, MySQL, and REST APIs.
 
-🚀 About Me
+I like working on projects where there is real business logic to solve — from job portals and marketplaces to e-commerce platforms and custom business applications.
 
-💻 Full Stack Developer with strong experience in PHP & Laravel 
+Currently, I'm improving my Java skills and working with Spring Boot. I'm also learning more about Docker, CI/CD, and application architecture.
 
-🔥 Experienced in building Web Applications, REST APIs & SaaS Platforms 
+### 🚀 What I Work With
 
-⚛️ Working with JavaScript, React & modern frontend technologies
+* Build web applications with **PHP & Laravel**
+* Develop **REST APIs** and backend services
+* Build frontend interfaces with **JavaScript, React & Blade**
+* Design and work with **MySQL databases**
+* Integrate third-party services and APIs
+* Work with **Git, GitHub Actions, Docker & CI/CD**
+* Develop applications using **Java & Spring Boot**
 
-☕ Currently exploring Java & Spring Boot
+### 🛠️ Tech Stack
 
-🐳 Learning Docker, DevOps & scalable application architecture
+**Backend**
 
-🗄️ Working with MySQL & relational databases
+* PHP
+* Laravel
+* Java
+* Spring Boot
+* MySQL
+* REST APIs
 
-🔐 Interested in Web Security, API Security & reliable software design
+**Frontend**
 
-🌱 Continuously improving my Software Engineering & System Design skills
+* JavaScript
+* React
+* Blade
+* Bootstrap
 
-🚀 Building and experimenting with my own SaaS/product ideas
+**DevOps & Tools**
 
+* Git
+* GitHub
+* GitHub Actions
+* Docker
+* Linux
+* CI/CD
 
-###  Tech Stack
+### 🚀 Featured Projects
 
-Backend
-- PHP
-- Java
-- Laravel
-- Spring Boot
-- MySQL
-- REST APIs
+* **Job Portal** — Job searching, candidate profiles, employer features and job management
+* **Micro Job Marketplace** — User-based marketplace with tasks, orders and account management
+* **E-commerce Platform** — Product, order and customer management
+* **News Portal** — News publishing and content management
+* **University Website** — University-focused web platform
+* **Admin Management System** — Custom administration and business management features
 
-Frontend
-- JavaScript
-- React
-- Blade
-- Bootstrap
+### 🌱 Currently Learning
 
-DevOps
-- Git
-- GitHub Actions
-- Linux
-- Docker
-- CI/CD
-
-###  Featured Projects
-
-- Job Portal
-- Micro Job Marketplace
-- E-commerce Platform
-- News Portal
-- University Website
-- Admin Management System
+* Java & Spring Boot
+* Docker & CI/CD
+* System Design
+* Scalable application architecture
 
 ### 📫 Connect With Me
 
- GitHub:  https://github.com/ShahidulMamun
+* GitHub: [ShahidulMamun](https://github.com/ShahidulMamun)
