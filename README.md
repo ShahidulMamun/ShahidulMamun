@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Shahidul Mamun
+# Hi, I'm Shahidul Mamun
 
-### 💻 Full Stack Developer | PHP | Laravel | React | Java | Spring Boot
+###  Full Stack Developer | PHP | Laravel | React | Java | Spring Boot
 
 I'm a Full Stack Developer with 5+ years of experience building web applications and backend systems. Most of my work has been with PHP and Laravel, along with JavaScript, React, MySQL, and REST APIs.
 
